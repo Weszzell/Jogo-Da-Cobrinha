@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #4000ff;
+
+}
+h1{
+    font-family: oswald;
+}
